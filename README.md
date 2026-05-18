@@ -1,20 +1,63 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Yash Sawant Portfolio & Blog Page
 
-# Run and deploy your AI Studio app
+A fully semantic, accessible, and responsive portfolio + blog webpage built using HTML5 and CSS3 as part of the Day 1 assignment.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/0ecffaba-90d8-49d0-bccd-66192cb6bd4f
+- Semantic HTML structure
+- Accessible forms with labels
+- Responsive modern UI
+- External CSS styling
+- CSS custom properties (variables)
+- Smooth hover and focus effects
+- Blog article cards
+- Skills section
+- Projects section
+- Contact form
+- SEO meta tags
+- W3C validator friendly
 
-## Run Locally
+## Technologies Used
 
-**Prerequisites:**  Node.js
+- HTML5
+- CSS3
+- Git & GitHub
 
+## Sections Included
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Header & Navigation
+- Hero Section
+- About
+- Skills
+- Experience
+- Projects
+- Blog Articles
+- Newsletter Sidebar
+- Achievements
+- Contact
+- Footer
+
+## Accessibility Features
+
+- Proper heading hierarchy
+- Semantic tags
+- Accessible labels
+- Keyboard focus states
+- Alt text support
+- Color contrast optimized
+
+## Projects Included
+
+### TradeSphere AI
+A MERN-based AI stock trading platform with dashboards, authentication, and portfolio tracking.
+
+### FinScore
+An ML-driven credit decision engine using Logistic Regression, KNN, and Naive Bayes.
+
+## Author
+
+Yash Sawant
+
+- GitHub: https://github.com/yash-techligence
+- LinkedIn: https://linkedin.com
+- Email: ysawant292@gmail.com
